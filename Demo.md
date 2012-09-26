@@ -22,7 +22,7 @@ Click through demonstration of using System Center Virtual Machine Manager and A
 <a name="setup" />
 ### Click Through Notes ###
 
-1. [Click here to download the click through executable.](https://github.com/WindowsAzure-TrainingKit/DEMO-MigrateVMAppController/blob/master/source/DEMO_MigrateSharePoint.exe)
+1. [Click here to download the click through executable.](https://github.com/WindowsAzure-TrainingKit/DEMO-MigrateVMAppController/blob/master/Source/DEMO_MigrateSharePoint.exe?raw=true)
 
 1. Launch the click through demo DEMO_MigrateSharePoint.exe
 
