@@ -1,9 +1,1 @@
-﻿DEMO_MigrateVMAppController
-======================
-
-Demonstration of using System Center AppController to migrate a SharePoint VHD to the cloud with a hybrid network.
-
-This is a DemoMate walkthrough. 
-
-> ### This demo has been deprecated and can be outdated.###
-
+The contents of repository has moved to [MicrosoftAzureTrainingKit](https://github.com/Microsoft-TrainingKits/MicrosoftAzureTrainingKit/tree/master/Demos/DEMO-MigrateVMAppController)
